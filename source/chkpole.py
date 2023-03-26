@@ -1,0 +1,2 @@
+def chkpole():
+    return
